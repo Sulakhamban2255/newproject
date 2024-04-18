@@ -1,0 +1,14 @@
+#nav {
+    line-height: 30px;
+    z-index: 200;
+    position: relative;
+    width: auto;
+    color: #fff;
+    display: block;
+    margin-right: 0;
+    margin-left: auto;
+    order: 2;
+}
+#head{
+    margin-top: 216px;
+}
